@@ -1,7 +1,7 @@
 const NUM_ROWS = 5;
 const NUM_COLS = 5;
 const LIGHTS_OFF_COLOR = 'gray';
-const LIGHTS_ON_COLOR = 'orange';
+const LIGHTS_ON_COLOR = 'rgb(174, 181, 248)';
 const grid = []
 
 const gameTableEl = document.getElementById('game-table');
